@@ -3,12 +3,11 @@ body {
     justify-content: center;
     align-items: center;
     height: 100vh;
-    background-color: teal;
+    background-color: coral;
 }
 
 h1{
-    font-size: 7rem;
-    font-family:'Courier New', Courier, monospace;
+    font-size: 10rem;
 }
 
 .letter{
